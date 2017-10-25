@@ -1,6 +1,6 @@
 #ifndef __S2J_H__
 #define __S2H_H__
-
+/*   */
 #include<cJSON.h>
 #include<string.h>
 #include"s2jdef.h"
