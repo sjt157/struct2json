@@ -119,4 +119,4 @@ typedef struct {
 }
 #endif
 
-#endif /* __S2JDEF_H__ */
+#endif 
